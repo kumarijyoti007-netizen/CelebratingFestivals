@@ -178,7 +178,7 @@ export default function App() {
             href="#explore"
             className="text-2xl font-serif font-semibold tracking-tight text-[#1C1917] whitespace-nowrap shrink-0"
           >
-            Utsav Archive
+            spreadingFestives
           </a>
 
           <nav className="hidden md:flex items-center gap-7 text-sm font-medium text-[#57534E]">
@@ -385,7 +385,7 @@ export default function App() {
                   <div className="w-full h-72 lg:h-full rounded-lg bg-gradient-to-br from-[#EBE6DF] to-[#D6CEBE] flex flex-col items-center justify-center p-8 text-center">
                     <BookMarked className="w-8 h-8 text-[#9A3412] mb-3" />
                     <span className="font-serif text-2xl text-[#1C1917]">
-                      Utsav Archive
+                      spreadingFestives
                     </span>
                   </div>
                 )}
@@ -481,7 +481,7 @@ export default function App() {
 
       <footer className="border-t border-[#DED7C8] bg-[#F3EFE6]/60">
         <div className="max-w-6xl mx-auto px-6 py-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 text-xs text-[#57534E]">
-          <p className="font-serif text-base text-[#1C1917]">Utsav Archive</p>
+          <p className="font-serif text-base text-[#1C1917]">spreadingFestives</p>
           <p>
             Cultural monographs celebrating regional traditions, shared histories, and heirloom
             festive kitchens across languages.
