@@ -1,0 +1,6 @@
+{
+  "name": "Utsav Archive",
+  "description": "Explore the historical significance, regional customs, and celebratory food of your favourite festivals in English, Hindi, or your mother tongue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
